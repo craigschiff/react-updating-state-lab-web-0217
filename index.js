@@ -6,7 +6,7 @@ const YouTubeDebugger = require('./components/YouTubeDebugger');
 
 ReactDOM.render(
   <div>
-    <DigitalClicker />
+    <DigitalClicker /><br><br>
     <YouTubeDebugger />
   </div>,
   document.getElementById('main')
